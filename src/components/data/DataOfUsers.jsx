@@ -3,7 +3,7 @@ import React from "react";
 export const DataOfUsers = () => {
   const users = [
     {
-      name: "Alex",
+      name: "Max",
       userName: "111",
       id: setTimeout(Date.now(), 1000),
     },
